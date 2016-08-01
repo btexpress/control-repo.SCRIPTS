@@ -1,8 +1,12 @@
 #!/bin/bash
 BRANCHES=(
-dev-test
-sb-test
-uat-test
+dev
+devprod
+prod
+production
+qatest
+sb
+uat
 )
 COMMITS=(
 7b0141f
