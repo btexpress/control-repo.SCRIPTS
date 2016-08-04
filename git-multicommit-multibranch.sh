@@ -1,12 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 BRANCHES=(
 dev
-devprod
-prod
-production
-qatest
-sb
-uat
 )
 COMMITS=(
 7b0141f
