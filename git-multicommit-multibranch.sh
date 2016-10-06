@@ -1,16 +1,20 @@
 #!/usr/bin/env bash
 BRANCHES=(
+dev
+devnote
 devprod
+docker
+integration
 prod
 production
 qatest
+sb
 sbnote
 uat
+uatnote
 )
 COMMITS=(
-75ff6a7
-db80955
-b631aa2
+82966dc
 )
 #
 ORIGINALBRANCHDEFAULT=testbranch
